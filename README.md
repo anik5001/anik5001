@@ -1,3 +1,10 @@
+
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGvP0kOaAtjXA/profile-displaybackgroundimage-shrink_200_800/B56ZqYH8w5IYAU-/0/1763488813785?e=1764806400&v=beta&t=01EeklhJSkX-f52tmUev5RtCibppmx2DGCGdswgDHfY" alt="Banner" width="100%" />
+</p>
+
+
 ## About Me 
 Hi, I’m Anik Sarker. I’m a MERN developer and a curious learner who loves exploring web development and creating simple, meaningful projects. I enjoy improving every day, learning new things, and growing step by step as a developer.
 
