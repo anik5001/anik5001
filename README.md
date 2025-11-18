@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**anik5001/anik5001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Contact
+Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/abufaysal002/)
+
+You can also find me on:
+
+- **Email**: aniksarker047@gmail.com
+- **Linkedin**: [Click Here](https://www.linkedin.com/in/anik-sarker50017/)
+- **Facebook** : [Click Here](https://www.facebook.com/Aniksarker047/)
+
+
+Let's connect and discuss exciting opportunities!
