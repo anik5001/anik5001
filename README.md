@@ -16,7 +16,7 @@ Hi, I’m Anik Sarker. I’m a MERN developer and a curious learner who loves ex
 
 
 ## Contact
-Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/abufaysal002/)
+Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/anik-sarker50017/)
 
 You can also find me on:
 
