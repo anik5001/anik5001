@@ -4,6 +4,38 @@
 </p>
 
 <br>
+<h1 align="left">
+  <span>
+    👋 H
+  </span><span>
+    i,
+  </span><span>
+     I
+  </span><span>
+    'm
+  </span><span>
+     A
+  </span><span>
+    n
+  </span><span>
+    i
+  </span><span>
+    k
+  </span><span>
+     S
+  </span><span>
+    a
+  </span><span>
+    r
+  </span><span>
+    k
+  </span><span>
+    e
+  </span><span>
+    r
+  </span>
+</h1>
+
 
 # 👋 Hi, I'm **Anik Sarker**
 
